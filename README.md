@@ -20,7 +20,7 @@ init serve para inicar o repositorio
 ````bash
 init
 ````
-git status serve para adcionar tudo que estava no arquivo
+git status serve para verificar se deu certo
 ````bash
 git status
 ````
